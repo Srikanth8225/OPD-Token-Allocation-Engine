@@ -227,9 +227,12 @@ You'll see:
 - ✅ Emergencies handled correctly
 - ✅ Waitlist sorted properly
 
-## License
+## Author
 
-Educational & demonstration purposes.
+**Ganapathi Sreekanth**  
+📧 Email: royalsrikanth537@gmail.com  
+📱 Phone: +91 7997707697  
+🔗 GitHub: [@Srikanth8225](https://github.com/Srikanth8225)
 
 ---
 
